@@ -1,11 +1,13 @@
 {
     "stages": [
         {
-            "name": "Stage 1",
+            "id": 1,
+            "name": "Beginnings",
             "url": "stages/stage1.json"
         },
         {
-            "name": "Stage 2",
+            "id": 2,
+            "name": "Wall jump?",
             "url": "stages/stage1.json"
         }
     ]
