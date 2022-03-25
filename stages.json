@@ -1,5 +1,12 @@
 {
     "stages": [
-        "stages/stage1.json"
+        {
+            "name": "Stage 1",
+            "url": "stages/stage1.json"
+        },
+        {
+            "name": "Stage 2",
+            "url": "stages/stage1.json"
+        }
     ]
 }
