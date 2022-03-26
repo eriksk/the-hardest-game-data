@@ -24,6 +24,11 @@
             "id": 5,
             "name": "The real test begins",
             "url": "stages/stage5.json"
+        },
+        {
+            "id": 6,
+            "name": "Jump a lot",
+            "url": "stages/stage6.json"
         }
     ]
 }
