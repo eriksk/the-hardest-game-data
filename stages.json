@@ -2,13 +2,28 @@
     "stages": [
         {
             "id": 1,
-            "name": "Beginnings",
+            "name": "Learning to jump!",
             "url": "stages/stage1.json"
         },
         {
             "id": 2,
-            "name": "Wall jump?",
-            "url": "stages/stage1.json"
+            "name": "Learning to wall run!",
+            "url": "stages/stage2.json"
+        },
+        {
+            "id": 3,
+            "name": "Learning to wall jump!",
+            "url": "stages/stage3.json"
+        },
+        {
+            "id": 4,
+            "name": "Learning to shoot!",
+            "url": "stages/stage4.json"
+        },
+        {
+            "id": 5,
+            "name": "The real test begins",
+            "url": "stages/stage5.json"
         }
     ]
 }
