@@ -29,6 +29,11 @@
             "id": 6,
             "name": "Jump a lot",
             "url": "stages/stage6.json"
+        },
+        {
+            "id": 7,
+            "name": "Just for Zackord",
+            "url": "stages/stage7.json"
         }
     ]
 }
